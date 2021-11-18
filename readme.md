@@ -8,6 +8,12 @@ The project consists of three main parts:
 
 Each part is carried out in a separate jupyter notebook. 
 
+## Installation?
+
+* Requirements.txt?
+* What do people need to run the program?
+* Dump the environment?
+
 # 1. Collecting and combining the data
 
 The associated jupyter notebook is Prepare_data.ipynb.
